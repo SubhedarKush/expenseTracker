@@ -44,7 +44,7 @@ A simple and minimal Expense Tracker web application to help users manage their 
 ![Screenshot 2025-06-24 171046](https://github.com/user-attachments/assets/63886958-6bea-4b15-b21b-f9282b831c9a)
 
 
-
+Demo video - https://drive.google.com/file/d/1UfEacguJLAzsQFWOvkEzFSbv0MmswHxB/view?usp=drivesdk
 ---
 
 
